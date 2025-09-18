@@ -19,27 +19,34 @@ namespace CourAlgo1
         {
             Random random = new Random();
             int[] tableauGrand = new int[1500];
-            int nombreDe3 = 0;
-            
+            var rand = new Random();
             for (int i = 0; i < tableauGrand.Length; i++)
             {
                 tableauGrand[i] = random.Next(1,10);
             }
-            for (int i = tableauGrand.Length; i > 0; i--)
+            
+            int[] tableauGrand2 = new int[1500];
+            for (int i = 0; i < tableauGrand.Length; i++)
             {
-                if (tableauGrand[i] == 3)
+                tableauGrand2[1499 - i] = tableauGrand[i];
+            }
+
+            int nombreDe3 = 0;
+            foreach (int element in tableauGrand2)
+            {
+                if (element == 3)
                 {
                     nombreDe3++;
                 }
             }
-            Console.WriteLine("Il y a " + nombreDe3 + " 3");
-            int[] tableauReverse = new int[tableauGrand.Length - nombreDe3];
+            Console.WriteLine(nombreDe3);
+            int[] tableauGrand3 = new int[tableauGrand.Length - nombreDe3];
             int countTable3 = 0;
             for (int i = 0; i < tableauGrand.Length; i++)
             {
                 if (tableauGrand[i] != 3)
                 {
-                    tableauReverse[countTable3] = tableauGrand[tableauGrand.Length - i];
+                    tableauGrand3[countTable3] = tableauGrand[tableauGrand.Length - i];
                     countTable3++;
                 }
             }
