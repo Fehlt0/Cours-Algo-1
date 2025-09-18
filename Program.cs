@@ -88,7 +88,7 @@ public class Program
 
         for (int i = 0; i < 1500; i++)
         {
-            table.Append(rndm.Next(0,10));
+            table[i] = rndm.Next(0,10);
         }
 
         for (int i = 1499; i > 0; i--)
@@ -98,17 +98,19 @@ public class Program
                 threeCount++;
             }
         }
-
-        int[] tableWoThrees = new int[threeCount];
-
+        
+        int[] tableWoThrees = new int[1500 - threeCount];
+        int j = 0;
+        
         for (int i = 1499; i > 0; i--)
         {
             if (table[i] != 3)
             {
-                tableWoThrees.Append(table[i]);
+                tableWoThrees[j] = table[i];
+                j++;
             }
         }
-        
+
         Console.Write($"number of 3 in table equals {threeCount}\n");
         Console.Write($"table one : \n {table.Length}\n");
         Console.Write($"table without 3s : \n {tableWoThrees.Length}");
