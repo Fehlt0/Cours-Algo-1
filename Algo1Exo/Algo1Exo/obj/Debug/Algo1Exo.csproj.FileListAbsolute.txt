@@ -1,0 +1,6 @@
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\bin\Debug\Algo1Exo.exe
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\bin\Debug\Algo1Exo.pdb
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\obj\Debug\Algo1Exo.csproj.AssemblyReference.cache
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\obj\Debug\Algo1Exo.csproj.CoreCompileInputs.cache
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\obj\Debug\Algo1Exo.exe
+C:\Users\m.desceliers\Documents\Algo1Exo\Algo1Exo\obj\Debug\Algo1Exo.pdb
