@@ -1,0 +1,14 @@
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.AssemblyInfoInputs.cache
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.AssemblyInfo.cs
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.csproj.CoreCompileInputs.cache
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\bin\Debug\net9.0\ExoAlgo1.exe
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\bin\Debug\net9.0\ExoAlgo1.deps.json
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\bin\Debug\net9.0\ExoAlgo1.runtimeconfig.json
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\bin\Debug\net9.0\ExoAlgo1.dll
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\bin\Debug\net9.0\ExoAlgo1.pdb
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.dll
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\refint\ExoAlgo1.dll
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.pdb
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ExoAlgo1.genruntimeconfig.cache
+C:\Users\jb.delbove\Desktop\Algo\ExoAlgo1\ExoAlgo1\obj\Debug\net9.0\ref\ExoAlgo1.dll
