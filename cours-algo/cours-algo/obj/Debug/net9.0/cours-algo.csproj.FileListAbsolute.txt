@@ -1,0 +1,14 @@
+D:\Cours\cours-algo\cours-algo\bin\Debug\net9.0\cours-algo.exe
+D:\Cours\cours-algo\cours-algo\bin\Debug\net9.0\cours-algo.deps.json
+D:\Cours\cours-algo\cours-algo\bin\Debug\net9.0\cours-algo.runtimeconfig.json
+D:\Cours\cours-algo\cours-algo\bin\Debug\net9.0\cours-algo.dll
+D:\Cours\cours-algo\cours-algo\bin\Debug\net9.0\cours-algo.pdb
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.AssemblyInfoInputs.cache
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.AssemblyInfo.cs
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.csproj.CoreCompileInputs.cache
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.dll
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\refint\cours-algo.dll
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.pdb
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\cours-algo.genruntimeconfig.cache
+D:\Cours\cours-algo\cours-algo\obj\Debug\net9.0\ref\cours-algo.dll
