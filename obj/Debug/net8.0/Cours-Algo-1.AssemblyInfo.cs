@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cours-Algo-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84382926de061d6fdb026b057cd6c25cc23ba46a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a34559a7cc942b08d0f9169ab947bb842e198e01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cours-Algo-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cours-Algo-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
