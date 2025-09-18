@@ -1,0 +1,14 @@
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\bin\Debug\net9.0\ExAlgoDebut.exe
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\bin\Debug\net9.0\ExAlgoDebut.deps.json
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\bin\Debug\net9.0\ExAlgoDebut.runtimeconfig.json
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\bin\Debug\net9.0\ExAlgoDebut.dll
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\bin\Debug\net9.0\ExAlgoDebut.pdb
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.AssemblyInfoInputs.cache
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.AssemblyInfo.cs
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.csproj.CoreCompileInputs.cache
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.dll
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\refint\ExAlgoDebut.dll
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.pdb
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ExAlgoDebut.genruntimeconfig.cache
+C:\Users\v.pandit\RiderProjects\ExAlgoDebut\ExAlgoDebut\obj\Debug\net9.0\ref\ExAlgoDebut.dll
